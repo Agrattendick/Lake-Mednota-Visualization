@@ -1,5 +1,5 @@
 # Lake Mendota Visualization
-![Frozen Lake](Images/FrozenLake.jpg)
+![Frozen Lake](Images/FrozenLake.jpeg)
 
 Given the freezing and thawing times of Lake Mendota over the past couple hundred years create a visualization of the data.
 
